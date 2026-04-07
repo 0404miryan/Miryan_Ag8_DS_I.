@@ -1,2 +1,4 @@
-# Miryan_Ag8_DS_I.
-Projeto em Python para pesquisa de satisfação com estrutura FOR.
+# Pesquisa de Satisfação - TudoWeb
+
+Programa em Python que realiza uma pesquisa de satisfação com 50 entrevistados,
+utilizando estrutura de repetição FOR e decisão IF.
